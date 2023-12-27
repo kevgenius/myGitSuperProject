@@ -1,1 +1,1 @@
-# myGitSuperProject
+# This's test repository.
